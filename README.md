@@ -196,24 +196,4 @@ The program provides the following options:
 | 16 | Discharge Patient |
 | 17 | Exit |
 
-## 7. Screenshots
 
-Screenshots are optional. For submission, screenshots of the following screens can be added here:
-
-- Main menu
-- Patient details
-- Doctor details
-- Appointment details
-- Medical record
-- Hospital bill
-- Final patient discharge
-
-Example:
-
-```text
-![Main Menu](screenshots/main-menu.png)
-![Patient Details](screenshots/patient-details.png)
-![Hospital Bill](screenshots/hospital-bill.png)
-```
-
-> Note: The screenshot paths above are examples. Add the actual screenshot files to the project before using these links.
